@@ -65,6 +65,12 @@
             <artifactId>spring-boot-starter-webmvc-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
@@ -119,5 +125,11 @@
             </plugin>
         </plugins>
     </build>
+<<<<<<< HEAD
 <!-- made a change by saniya -->
+=======
+
+    <!-- kunal made a change-->
+    <!-- Testing-->
+>>>>>>> f464a60a925f4cdf5c40f7e3e68e62664ed8fba8
 </project>
